@@ -15,6 +15,7 @@ class Game {
 	}
 
 
+
 	// method to take user guesses
 	public boolean takeUserInput() {
 		if ( noOfGuesses < 10 ) {
